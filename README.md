@@ -16,7 +16,7 @@ Final-year CS student building my way into **Machine Learning engineering** — 
 
 ### 📫 Reach me
 - 📧 **Email:** rithick.s060@gmail.com
-- 💼 **LinkedIn:** [Rithick Bharathwaj S](https://linkedin.com/in/your-handle) ← *replace with your profile URL*
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rithick-bharathwaj-s-6b5841296/
 
 ### 🎶 Fun facts
 - 🎤 Professional singer
