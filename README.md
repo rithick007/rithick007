@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Rithick 👋
 
-<!--
-**rithick007/rithick007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year CS student building my way into **Machine Learning engineering** — and a builder who ships.
 
-Here are some ideas to get you started:
+### 🔧 What I do
+- **Machine Learning / Deep Learning** — Computer Vision & LLMs *(my main focus)*
+- **Full-stack web development** — building and shipping real apps
+- **Cloud & DevOps** — deploying, containerizing, automating
+- **AI-augmented engineering** — Claude prompting & Claude Code *(pro level)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools I use
+**ML/DL:** `Python` · `PyTorch` · `scikit-learn` · `NumPy` · `Pandas` · `C++` *(learning)*
+**Web:** `JavaScript` · `React` · `Node.js` · `Next.js` · `MongoDB` · `PostgreSQL`
+**Cloud / DevOps:** `Docker` · `GitHub Actions (CI/CD)` · `Firebase`
+**AI tooling:** `Claude` · `Claude Code`
+
+### 📫 Reach me
+- 📧 **Email:** rithick.s060@gmail.com
+- 💼 **LinkedIn:** [Rithick Bharathwaj S](https://linkedin.com/in/your-handle) ← *replace with your profile URL*
+
+### 🎶 Fun facts
+- 🎤 Professional singer
+- 🗣️ College debater
+- 🎸 Managed a band
+
+---
+*Always building. Always learning.*
