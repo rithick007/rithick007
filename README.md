@@ -1,4 +1,4 @@
-# Hi, I'm Rithick 👋
+# The name's Rithick
 
 Final-year CS student building my way into **Machine Learning engineering** — and a builder who ships.
 
